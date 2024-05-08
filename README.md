@@ -2,10 +2,6 @@
 
 The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance of precision in space missions, highlighting how a simple unit mismatch led to the loss of the spacecraft. This challenge outlines the debugging proces for a piece of code and documents the changes made to improve its readability, accuracy, and robustness.
 
-## File Structure
-
-![alt text](mars.gif)
-
 
 ## Original code
 
@@ -32,5 +28,9 @@ The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance 
 - Implement accurate unit conversions within the functions.
 - Ensure the corrected functions address the issues of unit mismatches and parameter clarity.
 
+## In Progress
+- Completeing my "if else" loop within my function
+- Completing READMe file
+  
 
 

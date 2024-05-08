@@ -29,7 +29,6 @@ The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance 
 - Ensure the corrected functions address the issues of unit mismatches and parameter clarity.
 
 ## In Progress
-- Completeing my "if else" loop within my function
 - Completing READMe file
   
 

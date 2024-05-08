@@ -19,7 +19,7 @@ The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance 
 - **New Distance**: Approximately 10000 km after correction.
 - **Remaining Fuel**: Approximately 3,200 kg after correction.
 
-## Your Task
+## My Task
 
 1. Enhance code readability for easier debugging.
 2. Identify and correct calculation errors.
@@ -32,5 +32,5 @@ The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance 
 - Implement accurate unit conversions within the functions.
 - Ensure the corrected functions address the issues of unit mismatches and parameter clarity.
 
-## Debugging Guide
+
 

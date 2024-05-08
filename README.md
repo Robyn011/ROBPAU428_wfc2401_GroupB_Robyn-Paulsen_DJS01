@@ -1,6 +1,6 @@
 # DJS01: Mars Climate Orbiter Challenge
 
-The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance of precision in space missions, highlighting how a simple unit mismatch led to the loss of the spacecraft. This challenge outlines the debugging proces for a piece of code and documents the changes made to improve its readability, accuracy, and robustness.
+The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance of precision in space missions, highlighting how a simple unit mismatch led to the loss of the spacecraft. This challenge outlines the debugging process for a piece of code and documents the changes made to improve its readability, accuracy, and robustness.
 
 
 ## Original code
